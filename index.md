@@ -12,7 +12,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Research](./projects.html)          
 
-[Misc.](./projects.html) 
+[Outreach](./projects.html) 
+
+[CV](./projects.html) 
+
+[Contact](./projects.html) 
 
 There should be whitespace between paragraphs.
 
