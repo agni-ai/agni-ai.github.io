@@ -8,9 +8,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to Projects](./projects.html). -->
 
-[Projects](./projects.html)      
+[Research](./projects.html)  
 
-[Research](./projects.html)          
+[Projects](./projects.html)              
 
 [Outreach](./projects.html) 
 
