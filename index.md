@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to Projects](./projects.html).
 
-[Projects](./projects.html)          [Research](./projects.html)          [Misc.](./projects.html)          [Misc.](./projects.html) 
+<pre>[Projects](./projects.html)</pre>      <pre>[Research](./projects.html)</pre>          [Misc.](./projects.html)          [Misc.](./projects.html) 
 
 There should be whitespace between paragraphs.
 
